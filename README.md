@@ -1,1 +1,1 @@
-# ImageProcessingLibrary
+# imageProcessingLibrary
